@@ -89,7 +89,7 @@ class ChangeTextTest {
     }
 
     @Test
-    fun newActivity() {
+    fun newActivities() {
         val packageName = MODEL_PACKAGE
         waitForPackage(packageName)
 
